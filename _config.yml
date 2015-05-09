@@ -1,16 +1,25 @@
 # Site settings
-title: Practical Elegance
+title: (λ) Practical Elegance
 subtitle: '"Elegance is not a dispensable luxury." - Edsgar Dijkstra'
 author: Jason Lewis
 simple_search: http://google.com/search
 email: jason@decomplecting.org
 description: > # this means to ignore newlines until "baseurl:"
-  Software development, ire, and song
+  code, ire, and song
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://decomplecting.org" # the base hostname & protocol for your site
 twitter_username: canweriotnow
 github_username:  canweriotnow
 
+# Google Analytics
+
+google_analytics_tracking_id: UA-22978638-1
+
+# Disqus comments
+disqus_short_name: canweriotnow
+disqus_show_comment_count: false
+
+permalink: /blog/:year/:month/:day/:title/
 date_format: "%Y-%m-%d"
 titlecase: false
 
@@ -18,3 +27,14 @@ subscribe_rss: http://feeds.feedburner.com/PracticalElegance
 
 # Build settings
 markdown: kramdown
+
+---
+excerpt_separator: <!--more-->
+---
+
+gems:
+  - octopress-codeblock
+  - octopress-codefence
+  - octopress-image-tag
+  - octopress-quote-tag
+  - octopress-solarized
