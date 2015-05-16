@@ -2,7 +2,8 @@
 layout: post
 title: "Hello, Octopress 3.0!"
 date: 2015-05-16T02:52:43-04:00
-categories: blog, coding
+categories: [blog, coding]
+comments: true
 ---
 
 If you've been here before, my blog probably either looks much cleaner
