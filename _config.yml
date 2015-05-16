@@ -25,6 +25,13 @@ titlecase: false
 
 subscribe_rss: http://feeds.feedburner.com/PracticalElegance
 
+# Links for main nav
+nav:
+  - { url: '/', title: 'Posts' }
+  - { url: '/archive/', title: 'Archive' }
+  - { url: '/about/', title: 'About' }
+  - { url: '/feed/', title: 'Subscribe' }
+
 # Build settings
 markdown: kramdown
 
@@ -38,3 +45,9 @@ gems:
   - octopress-image-tag
   - octopress-quote-tag
   - octopress-solarized
+  - octopress-social
+  - octopress-linkblog
+  - octopress-filter-tag
+  - octopress-filters
+  - octopress-comment-tag
+  - jekyll-sitemap

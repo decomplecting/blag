@@ -1,0 +1,36 @@
+# Settings for main header
+title: (λ) Practical Elegance
+subtitle: '"Elegance is not a dispensable luxury." - Edsgar Dijkstra'
+
+# Links for main nav
+nav:
+  - { url: '/', title: 'Posts' }
+  - { url: '/archive/', title: 'Archive' }
+  - { url: '/feed/', title: 'Subscribe' }
+
+# Link labels
+permalink_label: "Permalink"
+read_more_label: "Continue Reading →"
+
+# Show excerpts on post index
+excerpt_posts: true
+# Excerpt linkposts on index
+excerpt_linkposts: false
+
+search: google
+
+sharing:
+  - facebook
+  - twitter
+  - gplus
+  - email
+
+# Defaults to sharing with links (for speed and privacy)
+# To use javascript share buttons, set share_with: buttons
+share_with: buttons
+
+# Embed comments, options: false, facebook, disqus
+comments: disqus
+
+# Center the text in post and page headings.
+center_headings: false
