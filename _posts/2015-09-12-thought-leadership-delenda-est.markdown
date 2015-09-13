@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Thought Leadership" Delenda Est"
+title: '"Thought Leadership" Delenda Est'
 date: 2015-09-12T20:26:24-04:00
 comments: true
 categories: [ideas, politics, random]
@@ -37,7 +37,7 @@ it's not that.
 But this isn't a psychoanalytic seminar, so let's leave that in parentheses for
 the moment.
 
-The concept of a "thought leader" &mdash n&eacutee expert &mdash is a lie of
+The concept of a "thought leader" - what we just once called an "expert" - is a lie of
 demagoguery that has absorbed all the truth of the "leadership of ideas".
 It is the modern method of making gods out of men, sapping our humility
 and our subservience to the ideas that should indeed lead us.
