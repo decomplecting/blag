@@ -2,6 +2,8 @@
 layout: post
 title: "On Hiring Programmers"
 date: 2015-12-08T01:23:32-05:00
+comments: true
+categories: [software, programming, management, hiring]
 ---
 
 Lately I've been focusing on the management aspects of my role at
